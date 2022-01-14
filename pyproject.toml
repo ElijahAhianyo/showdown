@@ -1,0 +1,7 @@
+[tool.documatic]
+name = "showdown"
+
+docdir = "."
+srcdir = "showdown"
+
+
